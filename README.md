@@ -1,1 +1,5 @@
 # World-Cup-Tweet-Analysis
+
+Description:- World Cup Analysis project involved analyzing tweets related to the T20 World Cup 2021 and providing insights into user behavior, sentiment, and preferences.
+The dataset used in the project consisted of a collection of T20 World Cup 2021 tweets, including information about user profiles, tweet timestamps, tweet text, hashtags, and more. The project utilized various libraries and modules for data analysis, visualization, text processing, and machine learning.
+The project provided valuable insights into the sentiment of tweets related to the T20 World Cup, and the model's high accuracy suggests that it can be a valuable tool for understanding the sentiment of the tweets in this dataset. The fusion of exploratory data analysis and machine learning not only provided a deeper understanding of user behavior but also showcased the potential for leveraging such analyses in future projects. The project can be useful for businesses, marketers, and researchers interested in social media analysis and machine learning.
